@@ -9,6 +9,8 @@ To write a python program for creating File Transfer using TCP Sockets Links
 5. In the client side receive the file from server and then write the content into it.
 ## PROGRAM
 ## OUPUT
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/b08b3f24-dd26-4673-89e1-562a3145c019" />
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
